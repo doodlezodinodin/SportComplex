@@ -1,0 +1,11 @@
+c:\users\alex\documents\visual studio 2015\Projects\SportComplexFinal\SportComplexFinal\bin\Debug\SportComplexFinal.exe.config
+c:\users\alex\documents\visual studio 2015\Projects\SportComplexFinal\SportComplexFinal\bin\Debug\DbSportComplex.mdf
+c:\users\alex\documents\visual studio 2015\Projects\SportComplexFinal\SportComplexFinal\bin\Debug\DbSportComplex_log.ldf
+c:\users\alex\documents\visual studio 2015\Projects\SportComplexFinal\SportComplexFinal\bin\Debug\SportComplexFinal.exe
+c:\users\alex\documents\visual studio 2015\Projects\SportComplexFinal\SportComplexFinal\bin\Debug\SportComplexFinal.pdb
+c:\users\alex\documents\visual studio 2015\Projects\SportComplexFinal\SportComplexFinal\obj\Debug\SportComplexFinal.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2015\Projects\SportComplexFinal\SportComplexFinal\obj\Debug\SportComplexFinal.Form1.resources
+c:\users\alex\documents\visual studio 2015\Projects\SportComplexFinal\SportComplexFinal\obj\Debug\SportComplexFinal.Properties.Resources.resources
+c:\users\alex\documents\visual studio 2015\Projects\SportComplexFinal\SportComplexFinal\obj\Debug\SportComplexFinal.csproj.GenerateResource.Cache
+c:\users\alex\documents\visual studio 2015\Projects\SportComplexFinal\SportComplexFinal\obj\Debug\SportComplexFinal.exe
+c:\users\alex\documents\visual studio 2015\Projects\SportComplexFinal\SportComplexFinal\obj\Debug\SportComplexFinal.pdb

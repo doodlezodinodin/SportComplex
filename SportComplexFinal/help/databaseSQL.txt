@@ -1,0 +1,37 @@
+CREATE TABLE [dbo].[TableInstructions] (
+    [Id]       INT   IDENTITY (1, 1) NOT NULL,
+    [Фамилия]  NTEXT NULL,
+    [Имя]      NTEXT NULL,
+    [Отчество] NTEXT NULL,
+    PRIMARY KEY CLUSTERED ([Id] ASC)
+);
+
+CREATE TABLE [dbo].[TableClients] (
+    [Id]       INT   IDENTITY (1, 1) NOT NULL,
+    [Фамилия]  NTEXT NULL,
+    [Имя]      NTEXT NULL,
+    [Отчество] NTEXT NULL,
+    [Дата]     NTEXT NULL,
+    [Телефон]  NTEXT NULL,
+    [Адрес]    NTEXT NULL,
+    PRIMARY KEY CLUSTERED ([Id] ASC)
+);
+
+CREATE TABLE [dbo].[TableSchedule] (
+    [Id]             INT        IDENTITY (1, 1) NOT NULL,
+    [Группа]         NCHAR (10) NULL,
+    [Дата]           NCHAR (10) NULL,
+    [ВремяНачала]    NCHAR (10) NULL,
+    [ВремяОкончания] NCHAR (10) NULL,
+    PRIMARY KEY CLUSTERED ([Id] ASC)
+);
+
+CREATE TABLE [dbo].[TableCost] (
+    [Id]         INT        IDENTITY (1, 1) NOT NULL,
+    [Название]   NTEXT      NULL,
+    [Стоимость]  NCHAR (10) NULL,
+    [Количество] NCHAR (10) NULL,
+    PRIMARY KEY CLUSTERED ([Id] ASC)
+);
+
+
